@@ -10,9 +10,8 @@ Got the ideas? Create pull request!
 * [ ] Develop in pairs (***pair programming***).
 * [ ] Use **distributed version control** (preferable **[Git](https://github.com/git/git)**).
     * Do not use zipped files, SVN, TFS, etc.
-    * Pull changes (*pull request*), do not push.
-    * Use Git (or Mercurial) Workflow.
-* [ ] Use policies for **pull requests** (e.g. build succesful, automated tests passing, changes reviewed).
+* [ ] Pull changes (*pull request*), do not push.
+    * Use policies for **pull requests** (e.g. build succesful, automated tests passing, changes reviewed).
 * [ ] **Monitor and log** your application.
 * [ ] Setup separate environments for **development**, **testing** and **production**.
     * Consider **staging** environment.
