@@ -4,7 +4,6 @@ Got the ideas? Create pull request!
 
 # 👩‍💻 Code
 
-* [ ] Always write **clean code**.
 * [ ] Conduct **code reviews**.  
     * Use online tool for code reviews.  
 * [ ] Develop in pairs (***pair programming***).
