@@ -4,7 +4,7 @@ Got the ideas? Create pull request!
 
 # 👩‍💻 Code
 
-* [ ] Use **version control** for source ([Recommendations at Slant](https://www.slant.co/topics/370/~best-version-control-systems)).
+* [ ] Use **version control** for project files ([Recommendations at Slant](https://www.slant.co/topics/370/~best-version-control-systems)).
 * [ ] **Monitor and log** your application ([Stackify article](https://stackify.com/monitor-software-deployment/) · [Best practices at Logmatic](https://logmatic.io/blog/beyond-application-monitoring-discover-logging-best-practices/)).
 * [ ] Setup **continuous integration (CI) server** ([Awesome List](https://github.com/ciandcd/awesome-ciandcd) · [Recommendations at Slant](https://www.slant.co/topics/799/~best-continuous-integration-tools)).
 
