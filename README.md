@@ -50,14 +50,3 @@ Got the ideas? Create pull request!
 
 * [ ]  Use effective **communication tool** (e.g. [Slack](https://slack.com/)) across organisation.
 * [ ] Avoid **single point of failure** (with [`Bus.Factor == 1`](https://en.wikipedia.org/wiki/Bus_factor)).
-
-# Links
-
-## Software recommendations
-* [alternativeTo](https://alternativeto.net/)
-* [Slant](https://www.slant.co/)
-* [StartupStash](http://startupstash.com/)
-
-## Agile etc.
-* [Agile Manifesto](http://agilemanifesto.org)
-    * [v2.1](https://agilescout.com/agile-manifesto-2-1-moreagile-manifesto/) (informal)
