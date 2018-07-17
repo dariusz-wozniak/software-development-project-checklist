@@ -17,7 +17,7 @@ Got the ideas? Create pull request!
 # 📃 Documentation
 
 * [ ] Setup **wiki-engined documentation**.
-* [ ] Prepare **license info** and make it available public.
+* [ ] Prepare **license info** and make it available for everyone in organisation.
 
 # 📆 Meetings
 
