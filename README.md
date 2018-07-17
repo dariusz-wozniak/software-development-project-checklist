@@ -30,7 +30,7 @@ Got the ideas? Create pull request!
 * [ ] Use effective **communication tool** across organisation.
 * [ ] Avoid **single point of failure** (with [`Bus.Factor == 1`](https://en.wikipedia.org/wiki/Bus_factor)).
 
-# ❓ What to consider?:
+# ❓ What to consider?
 
 Apart from the must-have, there are many wonderful nice-to-try ideas that may work with your project! If you're not familiar, you may research these.
 
