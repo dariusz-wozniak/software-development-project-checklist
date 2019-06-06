@@ -1,6 +1,6 @@
-Here is the **Software Development Checklist**. The purpose of the list is to create a minimum set of tools and rules that are applicable to each quality software project, from one-man army open-source to enterprise giant.
+Here is the **Software Development Checklist**. The purpose of the list is to create a minimum set of tools and rules that are applicable to each quality software project, from single-man army project to an enterprise giant.
 
-Got the ideas? Create pull request!
+Got the ideas? Create a pull request!
 
 # 👩‍💻 Code
 
