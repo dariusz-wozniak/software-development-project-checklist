@@ -11,7 +11,7 @@ Got the ideas? Create a pull request!
 # 📈 Process
 
 * [ ] Use **project management tracking system** (also known as *bug tracker* or *issue tracker*) ([Recommendations at Slant](https://www.slant.co/topics/3185/~project-management-tools)).
-* [ ] Create a **backlog** for your items .
+* [ ] Create a **backlog** for your items.
 * [ ] Improve the process by making **small iterative changes** in your process (*kaizen*).
 
 # 📃 Documentation
